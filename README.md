@@ -17,4 +17,4 @@ I'm currently building powerful AI tools and utilities to make artificial intell
 
 ### 🚀 **Ongoing Projects**
 
-- [**ComfyUI-DeepExtract**](https://github.com/abdozmantar/ComfyUI-DeepExtractV2) – An AI-powered tool for separating vocals,bass,drums from music.
+- [**ComfyUI-DeepExtractV2**](https://github.com/abdozmantar/ComfyUI-DeepExtractV2) – An AI-powered tool for separating vocals,bass,drums from music.
